@@ -7,4 +7,8 @@
   <img src="https://img.shields.io/badge/status-under%20construction-CC615F" alt="Estado del proyecto en construcción">
 </p>
 
+<h2>Índice</h2>
+<ul>
+  <li>Introducción</li>
+</ul>
 - Estado del proyecto: En construcción.
