@@ -29,6 +29,11 @@
   <li>[ROME]() - Usado para generar RSS</li>
 </ul>
 
+## Ejecución
+Para ejecutar el sistema:
+
+```npm install react```
+
 ## Autor 🖋️
 | [<img src="https://media.licdn.com/dms/image/v2/D5603AQEts8ceC8ApOA/profile-displayphoto-scale_400_400/B56ZhiDqxXG4Ak-/0/1753991786071?e=1756944000&v=beta&t=jmqwUWtDr_hdfqDq3czV4I6gKF4P4LIftrob1eom95c" width=115><br><sub>Gilberto Marcial</sub>](https://github.com/gmarcialj) |
 | :---: |
