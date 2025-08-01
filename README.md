@@ -11,4 +11,6 @@
 <ul>
   <li>Introducción</li>
 </ul>
-- Estado del proyecto: En construcción.
+
+<h2>Introducción</h2>
+<p>Sistema de ejemplo para comenzar a trabajar con los <strong>README</strong> en <strong>GitHub</strong></p>
