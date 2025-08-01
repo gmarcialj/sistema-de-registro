@@ -21,6 +21,17 @@
 - `Funcionalidad 2`: descripción de la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
-## Autor
+<h2>Construido con  🛠️</h2>
+<p><i>Las herramientas utilizadas en este proyecto son:</i></p>
+<ul>
+  <li>[Angular]() - Framework web usado</li>
+  <li>[Maven]() - Manejador de dependencias</li>
+  <li>[ROME]() - Usado para generar RSS</li>
+</ul>
+
+## Autor 🖋️
 | [<img src="https://media.licdn.com/dms/image/v2/D5603AQEts8ceC8ApOA/profile-displayphoto-scale_400_400/B56ZhiDqxXG4Ak-/0/1753991786071?e=1756944000&v=beta&t=jmqwUWtDr_hdfqDq3czV4I6gKF4P4LIftrob1eom95c" width=115><br><sub>Gilberto Marcial</sub>](https://github.com/gmarcialj) |
 | :---: |
+
+<h2>Licencia 📄</h2>
+<p>Este proyecto está bajo la licencia () - mira el archivo License.md para más detalles.</p>
