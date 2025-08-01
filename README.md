@@ -10,7 +10,15 @@
 <h2>Índice</h2>
 <ul>
   <li>Introducción</li>
+  <li>Funcionalidades del proyecto</li>
 </ul>
 
 <h2>Introducción</h2>
 <p>Sistema de ejemplo para comenzar a trabajar con los <strong>README</strong> en <strong>GitHub</strong></p>
+
+<h2>:hammer:Funcionalidades del proyecto</h2>
+<p>`Funcionalidad 1`: descripción de la funcionalidad 1</p>
+<p>`Funcionalidad 1`: descripción de la funcionalidad 1</p>
+<p>`Funcionalidad 1`: descripción de la funcionalidad 1</p>
+<p>`Funcionalidad 1`: descripción de la funcionalidad 1</p>
+
