@@ -16,9 +16,5 @@
 <h2>Introducción</h2>
 <p>Sistema de ejemplo para comenzar a trabajar con los <strong>README</strong> en <strong>GitHub</strong></p>
 
-<h2>:hammer: Funcionalidades del proyecto</h2>
-- `Funcionalidad 1`: descripción de la funcionalidad 1
-- `Funcionalidad 2`: descripción de la funcionalidad 2
-- `Funcionalidad 3`: descripción de la funcionalidad 3
-- `Funcionalidad 4`: descripción de la funcionalidad 4
-
+## :hammer: Funcionalidades del proyecto
+- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción 
