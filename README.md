@@ -7,16 +7,16 @@
   <img src="https://img.shields.io/badge/status-under%20construction-CC615F" alt="Estado del proyecto en construcción">
 </p>
 
-<h2>Índice</h2>
+<h2>Índice ☑️ </h2>
 <ul>
   <li>Introducción</li>
   <li>Funcionalidades del proyecto</li>
 </ul>
 
-<h2>Introducción</h2>
+<h2>Introducción 📖</h2>
 <p>Sistema de ejemplo para comenzar a trabajar con los <strong>README</strong> en <strong>GitHub</strong></p>
 
-## :hammer: Funcionalidades del proyecto
+## Funcionalidades del proyecto 🔨
 - `Funcionalidad 1`: descripción de la funcionalidad 1
 - `Funcionalidad 2`: descripción de la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
