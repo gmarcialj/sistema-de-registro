@@ -29,7 +29,7 @@
   <li>[ROME]() - Usado para generar RSS</li>
 </ul>
 
-## Ejecución
+## Ejecución 🏃
 Para ejecutar el sistema:
 
 ```npm install react```
